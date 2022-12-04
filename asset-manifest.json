@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hazelbright/hazelbright.github.io/static/css/main.3b6f4d32.css",
-    "main.js": "/hazelbright/hazelbright.github.io/static/js/main.cd1ba125.js",
-    "static/js/787.098ae3e0.chunk.js": "/hazelbright/hazelbright.github.io/static/js/787.098ae3e0.chunk.js",
-    "static/media/logo.png": "/hazelbright/hazelbright.github.io/static/media/logo.27eb60f115fc31752c0b.png",
-    "index.html": "/hazelbright/hazelbright.github.io/index.html",
-    "main.3b6f4d32.css.map": "/hazelbright/hazelbright.github.io/static/css/main.3b6f4d32.css.map",
-    "main.cd1ba125.js.map": "/hazelbright/hazelbright.github.io/static/js/main.cd1ba125.js.map",
-    "787.098ae3e0.chunk.js.map": "/hazelbright/hazelbright.github.io/static/js/787.098ae3e0.chunk.js.map"
+    "main.css": "/static/css/main.3b6f4d32.css",
+    "main.js": "/static/js/main.1633d0f2.js",
+    "static/js/787.098ae3e0.chunk.js": "/static/js/787.098ae3e0.chunk.js",
+    "static/media/logo.png": "/static/media/logo.27eb60f115fc31752c0b.png",
+    "index.html": "/index.html",
+    "main.3b6f4d32.css.map": "/static/css/main.3b6f4d32.css.map",
+    "main.1633d0f2.js.map": "/static/js/main.1633d0f2.js.map",
+    "787.098ae3e0.chunk.js.map": "/static/js/787.098ae3e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b6f4d32.css",
-    "static/js/main.cd1ba125.js"
+    "static/js/main.1633d0f2.js"
   ]
 }
